@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+<img src="https://github.com/jonny-dain/jonny-dain/header.png">
+
 <!--
 **jonny-dain/jonny-dain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
