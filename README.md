@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-<img src="https://github.com/jonny-dain/jonny-dain/master/header.png" alt="Welcome">
+<img src="https://github.com/jonny-dain/jonny-dain/blob/93e911ed5a00757d650c8e960de99b0fa6410f20/header.png" alt="Welcome">
 
 <!--
 **jonny-dain/jonny-dain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
